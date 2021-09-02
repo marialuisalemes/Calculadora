@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: "RobotoMono-Variable Font_wght";
+  src: url("./fonts/RobotoMono-Variable Font_wght.ttf");
+}
+* {
+  font-family: "RobotoMono-VariableFont_wght";
+}
+body {
+  display: flex;
+  height: 100hv;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #fff;
+  background: linear-gradient(to right, Orgb(83, 105, 118), Orgb(41, 46, -73));
+}
